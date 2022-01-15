@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Pragmaticashadowc italic;
+  font-display: swap;
+  src: url("../fonts/Pragmaticashadowc italic.woff2") format("woff2"), url("../fonts/Pragmaticashadowc italic.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-size: 30px;
+  height: 500px;
+  color: forestgreen;
+  font-family: Pragmaticashadowc italic;
+}
+
+svg {
+  fill: fuchsia;
+}
